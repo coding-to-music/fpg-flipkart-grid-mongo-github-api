@@ -1,4 +1,8 @@
 {
+  "name": "fpg-flipkart-grid-mongo-github-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "deploy": "git add . && git commit -m Build && git push"
